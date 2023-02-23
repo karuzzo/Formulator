@@ -15,6 +15,7 @@ namespace Formulator
     /// </summary>
     public class ParseProvider
     {
+
         public ParseProvider(string text)
         {
             _text = text;
